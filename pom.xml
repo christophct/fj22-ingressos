@@ -150,5 +150,12 @@
             </plugin>
         </plugins>
     </build>
+	
+	<developers>
+		<developer>
+			<name>Christopher C. Viragine</name>
+			<email>christoph.ct@gmail.com</email>
+		</developer>
 
+	</developers>
 </project>
